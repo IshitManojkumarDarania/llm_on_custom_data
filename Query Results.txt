@@ -1,0 +1,17 @@
+These outputs have been generated when 50 items were given as context using products=products[:50]
+
+Q1. is the cost of American Garden products less than 50
+A1. No, the cost of American Garden products is not less than 50.
+
+
+Q2. are there any oils
+A2. Yes, there are oils mentioned in the context information. The Olivia Apple Massage cream contains Active Fruit extracts, which moisturizes the skin. The Patanjali sunscreen cream also contains natural oils and extracts that nourish and revitalize the complexion.
+
+Q3. which brands have natural products
+A3. Patanjali and Himalaya are the brands that have natural products.
+
+Q4.what are different food items
+A4.The different food items mentioned in the context are dry-fruits, spices, groceries, snacks, and berries.
+
+Q5.what is the highest cost in snacks
+A5.The highest cost in snacks is 70.0.
